@@ -16,10 +16,6 @@
 
 ###
 
-<p align="left">✨Jeg har gået på Hansenberg siden 8 August 2022<br>📚 Jeg er pt i gang med nogle projekter.<br>🎯 Mit mål er at blive Full Stack udvikler</p>
-
-###
-
 <h2 align="left">Kodesprog jeg kender til:</h2>
 
 ###
